@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel>
+        <title>Thunder Kitty</title>
+        <link>https://thunderkitty.app</link>
+        <description>Thunder Kitty release feed</description>
+        <language>en</language>
+        <!-- Items added here on each release. Template:
+        <item>
+            <title>Version X.Y.Z</title>
+            <sparkle:version>BUILD_NUMBER</sparkle:version>
+            <sparkle:shortVersionString>X.Y.Z</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <ul>
+                    <li>What changed</li>
+                </ul>
+            ]]></description>
+            <pubDate>DAY, DD MON YYYY HH:MM:SS +0000</pubDate>
+            <enclosure
+                url="https://github.com/big-truck-labs/thunder-kitty-releases/releases/download/vX.Y.Z/ThunderKitty.dmg"
+                type="application/octet-stream"
+                sparkle:edSignature="SIGNATURE_FROM_SIGN_UPDATE"
+                length="FILE_SIZE_IN_BYTES"
+            />
+        </item>
+        -->
+    </channel>
+</rss>
