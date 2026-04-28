@@ -5,25 +5,23 @@
         <link>https://thunderkitty.app</link>
         <description>Thunder Kitty release feed</description>
         <language>en</language>
-        <!-- Items added here on each release. Template:
         <item>
-            <title>Version X.Y.Z</title>
-            <sparkle:version>BUILD_NUMBER</sparkle:version>
-            <sparkle:shortVersionString>X.Y.Z</sparkle:shortVersionString>
+            <title>Version 1.0.0</title>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <description><![CDATA[
                 <ul>
-                    <li>What changed</li>
+                    <li>First public release</li>
                 </ul>
             ]]></description>
-            <pubDate>DAY, DD MON YYYY HH:MM:SS +0000</pubDate>
+            <pubDate>Mon, 28 Apr 2026 00:00:00 +0000</pubDate>
             <enclosure
-                url="https://github.com/big-truck-labs/thunder-kitty-releases/releases/download/vX.Y.Z/ThunderKitty.dmg"
+                url="https://github.com/big-truck-labs/thunder-kitty-releases/releases/download/v1.0.0/ThunderKitty.dmg"
                 type="application/octet-stream"
-                sparkle:edSignature="SIGNATURE_FROM_SIGN_UPDATE"
-                length="FILE_SIZE_IN_BYTES"
+                sparkle:edSignature="W9lbS4f8mG7yyyISpSUXRpDA7wSzRVd4WdIf/Oggr4y8F7l0dqsnxwuaIcHHJP60iac3fvfnufZZ04tw5ELxDg=="
+                length="19710204"
             />
         </item>
-        -->
     </channel>
 </rss>
