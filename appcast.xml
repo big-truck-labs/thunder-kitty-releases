@@ -6,6 +6,26 @@
         <description>Thunder Kitty release feed</description>
         <language>en</language>
         <item>
+            <title>Version 1.0.2</title>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <ul>
+                    <li>Styled DMG installer</li>
+                    <li>Fix select-all bug in editor</li>
+                    <li>Editor performance optimizations</li>
+                </ul>
+            ]]></description>
+            <pubDate>Fri, 01 May 2026 13:14:26 +0000</pubDate>
+            <enclosure
+                url="https://github.com/big-truck-labs/thunder-kitty-releases/releases/download/v1.0.2/ThunderKitty.dmg"
+                type="application/octet-stream"
+                sparkle:edSignature="FV1jiAnrGktIceqfPs85qzRfAxmZCKzBMU3VsG2mDkXxflZV99EISJiZpcN739Bhl9QBZqrTEq5lJ4NU26ozCA=="
+                length="21055735"
+            />
+        </item>
+        <item>
             <title>Version 1.0.1</title>
             <sparkle:version>2</sparkle:version>
             <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
