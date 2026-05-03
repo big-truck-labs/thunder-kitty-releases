@@ -6,6 +6,27 @@
         <description>Thunder Kitty release feed</description>
         <language>en</language>
         <item>
+            <title>Version 1.0.3</title>
+            <sparkle:version>4</sparkle:version>
+            <sparkle:shortVersionString>1.0.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <ul>
+                    <li>New onboarding flow that's friendlier and easier to navigate</li>
+                    <li>Notification and calendar permission controls now live in Settings</li>
+                    <li>API keys are now stored in macOS Keychain — no more password prompts</li>
+                    <li>Reorganized Settings to group related items together</li>
+                </ul>
+            ]]></description>
+            <pubDate>Sun, 03 May 2026 01:47:56 +0000</pubDate>
+            <enclosure
+                url="https://github.com/big-truck-labs/thunder-kitty-releases/releases/download/v1.0.3/ThunderKitty.dmg"
+                type="application/octet-stream"
+                sparkle:edSignature="d7QW+7wuT4ZqrUGnZ6E03ISo3GXL9IpBlv4j283xS6ZADA5uWWXcTULtsJCEci5nLXW9bzJFRclZSLmOp1NEBw=="
+                length="21071519"
+            />
+        </item>
+        <item>
             <title>Version 1.0.2</title>
             <sparkle:version>3</sparkle:version>
             <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
