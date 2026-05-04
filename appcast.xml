@@ -6,6 +6,24 @@
         <description>Thunder Kitty release feed</description>
         <language>en</language>
         <item>
+            <title>Version 1.0.6</title>
+            <sparkle:version>7</sparkle:version>
+            <sparkle:shortVersionString>1.0.6</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <ul>
+                    <li>Fixed an issue where license keys and API keys couldn't be saved on some Macs</li>
+                </ul>
+            ]]></description>
+            <pubDate>Sun, 04 May 2026 20:43:00 +0000</pubDate>
+            <enclosure
+                url="https://github.com/big-truck-labs/thunder-kitty-releases/releases/download/v1.0.6/ThunderKitty.dmg"
+                type="application/octet-stream"
+                sparkle:edSignature="EoLfui2QVATn+pv7Bfn3uKinpovv2eQftcCwnG9IUi0k4mczBej/Z6WBTtyF7nYiYujW0+yoqbyN3jEHS+uPCQ=="
+                length="21480035"
+            />
+        </item>
+        <item>
             <title>Version 1.0.5</title>
             <sparkle:version>6</sparkle:version>
             <sparkle:shortVersionString>1.0.5</sparkle:shortVersionString>
