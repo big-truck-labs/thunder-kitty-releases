@@ -6,6 +6,25 @@
         <description>Thunder Kitty release feed</description>
         <language>en</language>
         <item>
+            <title>Version 1.0.7</title>
+            <sparkle:version>8</sparkle:version>
+            <sparkle:shortVersionString>1.0.7</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <ul>
+                    <li>Settings pages are now centered in the window</li>
+                    <li>API keys now save silently without password prompts</li>
+                </ul>
+            ]]></description>
+            <pubDate>Tue, 05 May 2026 00:28:54 +0000</pubDate>
+            <enclosure
+                url="https://github.com/big-truck-labs/thunder-kitty-releases/releases/download/v1.0.7/ThunderKitty.dmg"
+                type="application/octet-stream"
+                sparkle:edSignature="14N0JHo1UCmm/F8g4kNBvASF0hrPyKOffTIhiXMKg0yPgSCnJ8vIEIHFmyMwNhijm+fUWsXUbt7EWRlIYUIhBg=="
+                length="21487557"
+            />
+        </item>
+        <item>
             <title>Version 1.0.6</title>
             <sparkle:version>7</sparkle:version>
             <sparkle:shortVersionString>1.0.6</sparkle:shortVersionString>
