@@ -6,6 +6,25 @@
         <description>Thunder Kitty release feed</description>
         <language>en</language>
         <item>
+            <title>Version 1.1.1</title>
+            <sparkle:version>11</sparkle:version>
+            <sparkle:shortVersionString>1.1.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <ul>
+                    <li>Fixed pasted text disappearing when saving agenda items</li>
+                    <li>Blank lines in agenda items and AI summaries are now preserved</li>
+                </ul>
+            ]]></description>
+            <pubDate>Wed, 06 May 2026 21:06:25 +0000</pubDate>
+            <enclosure
+                url="https://github.com/big-truck-labs/thunder-kitty-releases/releases/download/v1.1.1/ThunderKitty.dmg"
+                type="application/octet-stream"
+                sparkle:edSignature="yVFqdWc0aQ4hqXg5K17cq1nd5guAItAdTKtuF7lMs6/aEnUjZurSPi0xn3Jlfhrz3DS6PI/sq4SmlOz45pW8CA=="
+                length="21630646"
+            />
+        </item>
+        <item>
             <title>Version 1.1.0</title>
             <sparkle:version>10</sparkle:version>
             <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
