@@ -6,6 +6,36 @@
         <description>Thunder Kitty release feed</description>
         <language>en</language>
         <item>
+            <title>Version 1.2.0</title>
+            <sparkle:version>12</sparkle:version>
+            <sparkle:shortVersionString>1.2.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h3>New</h3>
+                <ul>
+                    <li><strong>Per-item summaries</strong> — each agenda item gets its own AI summary after a recording, based on what was actually discussed. See exactly what moved on each topic without reading the full transcript.</li>
+                    <li><strong>API key management, redesigned</strong> — connect your own OpenAI, Anthropic, or Google key and choose from any model each provider offers. Keys are stored securely on your Mac.</li>
+                </ul>
+                <h3>Fixed</h3>
+                <ul>
+                    <li>Agenda items no longer disappear after clicking Done or adding a new item</li>
+                    <li>The error message when Apple Intelligence models are still downloading is now clearer</li>
+                    <li>Notes list sidebar no longer resets when navigating to and from Settings</li>
+                </ul>
+                <h3>Improved</h3>
+                <ul>
+                    <li>File sync is now activation-based — edits you make in Obsidian, iA Writer, or any other app are picked up the moment you switch back to Thunder Kitty</li>
+                </ul>
+            ]]></description>
+            <pubDate>Sat, 09 May 2026 14:03:07 +0000</pubDate>
+            <enclosure
+                url="https://github.com/big-truck-labs/thunder-kitty-releases/releases/download/v1.2.0/ThunderKitty.dmg"
+                type="application/octet-stream"
+                sparkle:edSignature="YOJjvsrtqI2KlcIZmipUQ1ByUOzyjZp4OhehpFxRt9JoBPGMIzydkY+eqtitkIIOlYSUIopmJeWOpm9ypK/nDw=="
+                length="21697717"
+            />
+        </item>
+        <item>
             <title>Version 1.1.1</title>
             <sparkle:version>11</sparkle:version>
             <sparkle:shortVersionString>1.1.1</sparkle:shortVersionString>
