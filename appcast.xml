@@ -6,6 +6,22 @@
         <description>Thunder Kitty release feed</description>
         <language>en</language>
         <item>
+            <title>Version 1.3.1</title>
+            <sparkle:version>14</sparkle:version>
+            <sparkle:shortVersionString>1.3.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <p>Fixed a signing issue introduced in v1.3.0 that prevented the app from accessing the macOS keychain. This caused API keys and license keys to appear missing, and blocked saving new credentials. All previously saved keys will be restored automatically after updating.</p>
+            ]]></description>
+            <pubDate>Sun, 11 May 2026 16:15:00 +0000</pubDate>
+            <enclosure
+                url="https://github.com/big-truck-labs/thunder-kitty-releases/releases/download/v1.3.1/ThunderKitty.dmg"
+                type="application/octet-stream"
+                sparkle:edSignature="5vU8OxbT7CJFcXVZxf2w4pyqv4M2/we/3ZAr0cGAQ7syvVlIn71NxvcsbImbIj8zV2KnzSVFwrEMl23eOsqSDg=="
+                length="26673431"
+            />
+        </item>
+        <item>
             <title>Version 1.3.0</title>
             <sparkle:version>13</sparkle:version>
             <sparkle:shortVersionString>1.3.0</sparkle:shortVersionString>
