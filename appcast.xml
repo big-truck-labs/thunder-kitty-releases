@@ -6,6 +6,24 @@
         <description>Thunder Kitty release feed</description>
         <language>en</language>
         <item>
+            <title>Version 1.3.0</title>
+            <sparkle:version>13</sparkle:version>
+            <sparkle:shortVersionString>1.3.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <p><strong>Thunder Kitty now works as an MCP server for Claude Desktop.</strong></p>
+                <p>Ask Claude about your meetings in natural language — no copy-pasting required. Claude can search your notes, read transcripts, check what's being recorded right now, and track unresolved agenda items across your entire history.</p>
+                <p>To get started, open Thunder Kitty Settings and toggle on Claude Desktop located in Integrations, then restart Claude Desktop.</p>
+            ]]></description>
+            <pubDate>Sun, 10 May 2026 23:03:19 +0000</pubDate>
+            <enclosure
+                url="https://github.com/big-truck-labs/thunder-kitty-releases/releases/download/v1.3.0/ThunderKitty.dmg"
+                type="application/octet-stream"
+                sparkle:edSignature="6XjKKME97aJAd9/tPyqU5QYH6bzzf7QffzpfLmTAPDhvCL6Rdb8KNmWwYcWxQLyItA7qCnGXsOUKRwVnlO9pCg=="
+                length="26674164"
+            />
+        </item>
+        <item>
             <title>Version 1.2.0</title>
             <sparkle:version>12</sparkle:version>
             <sparkle:shortVersionString>1.2.0</sparkle:shortVersionString>
