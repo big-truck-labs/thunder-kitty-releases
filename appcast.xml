@@ -6,6 +6,22 @@
         <description>Thunder Kitty release feed</description>
         <language>en</language>
         <item>
+            <title>Version 1.4.1</title>
+            <sparkle:version>17</sparkle:version>
+            <sparkle:shortVersionString>1.4.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <p>Improved Claude Desktop MCP server reliability — connection errors are now surfaced instead of silently returning empty results, and unnecessary server restarts from app updates are prevented.</p>
+            ]]></description>
+            <pubDate>Fri, 15 May 2026 19:10:37 +0000</pubDate>
+            <enclosure
+                url="https://github.com/big-truck-labs/thunder-kitty-releases/releases/download/v1.4.1/ThunderKitty.dmg"
+                type="application/octet-stream"
+                sparkle:edSignature="BpxP8zu7FS0lKF2rZ/YkgS3ZeNSV2tFbOE9J8dvjqn8RVh//jM+OdIQP6ulcxJXXgjwPZm0hSvpdOUVyzp0LCw=="
+                length="26884740"
+            />
+        </item>
+        <item>
             <title>Version 1.4.0</title>
             <sparkle:version>16</sparkle:version>
             <sparkle:shortVersionString>1.4.0</sparkle:shortVersionString>
