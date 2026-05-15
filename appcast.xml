@@ -6,6 +6,26 @@
         <description>Thunder Kitty release feed</description>
         <language>en</language>
         <item>
+            <title>Version 1.4.0</title>
+            <sparkle:version>16</sparkle:version>
+            <sparkle:shortVersionString>1.4.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <p><strong>Note attributes</strong> — Add and remove people, organizations, and calendar events on any note via the new "+" dropdown. Searchable autocomplete pulls from names already in your notes. Calendar event picker groups by date. Hover any chip to remove it.</p>
+                <ul>
+                    <li>Recurring calendar events now correctly create a separate note for each occurrence instead of all mapping to the same one</li>
+                    <li>Names with commas (e.g. "John Smith, Jr.") are no longer split into separate entities</li>
+                </ul>
+            ]]></description>
+            <pubDate>Fri, 15 May 2026 14:06:12 +0000</pubDate>
+            <enclosure
+                url="https://github.com/big-truck-labs/thunder-kitty-releases/releases/download/v1.4.0/ThunderKitty.dmg"
+                type="application/octet-stream"
+                sparkle:edSignature="NbXGuy/B9AxfhczIDeUzKW2soYo8+Rxy/UOqP5AAhQxQb4ew0QX5c/bv4pn8e+X0DXYNVjn/hkYF3mTuQdjQCA=="
+                length="26870782"
+            />
+        </item>
+        <item>
             <title>Version 1.3.2</title>
             <sparkle:version>15</sparkle:version>
             <sparkle:shortVersionString>1.3.2</sparkle:shortVersionString>
