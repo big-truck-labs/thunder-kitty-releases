@@ -6,6 +6,23 @@
         <description>Thunder Kitty release feed</description>
         <language>en</language>
         <item>
+            <title>Version 1.5.0</title>
+            <sparkle:version>18</sparkle:version>
+            <sparkle:shortVersionString>1.5.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <p><strong>Agenda Templates</strong> — Build a template once, reuse it across every meeting that follows the same format. Create and manage templates from the Agenda panel, then load them into any meeting in one tap.</p>
+                <p>Also in this release: Settings has been reorganized into focused sections, and typography and layout have been refined throughout the app.</p>
+            ]]></description>
+            <pubDate>Mon, 18 May 2026 14:21:25 +0000</pubDate>
+            <enclosure
+                url="https://github.com/big-truck-labs/thunder-kitty-releases/releases/download/v1.5.0/ThunderKitty.dmg"
+                type="application/octet-stream"
+                sparkle:edSignature="p7vsYomakuvP6Q+5NIEizZiBZzeCSgLYmJSbXVEDTv0CYFPWTl9l1d8tWxuGJ+bHZvHWAWb5nrZJpIRCdq5rBw=="
+                length="27079321"
+            />
+        </item>
+        <item>
             <title>Version 1.4.1</title>
             <sparkle:version>17</sparkle:version>
             <sparkle:shortVersionString>1.4.1</sparkle:shortVersionString>
