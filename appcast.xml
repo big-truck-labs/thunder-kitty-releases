@@ -6,6 +6,31 @@
         <description>Thunder Kitty release feed</description>
         <language>en</language>
         <item>
+            <title>Version 1.6.0</title>
+            <sparkle:version>19</sparkle:version>
+            <sparkle:shortVersionString>1.6.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <p><strong>What's new in 1.6.0</strong></p>
+                <ul>
+                    <li><strong>Import transcripts</strong> from audio files, text files, or clipboard</li>
+                    <li><strong>Join & Record</strong> — one click to join a meeting and start recording</li>
+                    <li><strong>Document outline minimap</strong> for quick heading navigation in the editor</li>
+                    <li><strong>Smarter people & orgs</strong> — names are now tracked across notes and calendar events</li>
+                    <li><strong>Transcription fix</strong> — no more stuttering in unified mode (no headphones)</li>
+                    <li>Auto-cleanup of empty calendar event notes</li>
+                    <li>UI consistency and polish</li>
+                </ul>
+            ]]></description>
+            <pubDate>Thu, 21 May 2026 18:39:06 +0000</pubDate>
+            <enclosure
+                url="https://github.com/big-truck-labs/thunder-kitty-releases/releases/download/v1.6.0/ThunderKitty.dmg"
+                type="application/octet-stream"
+                sparkle:edSignature="3CN5PGkZ9iYFVSo+YrvK4MtJ+rlA1wv+FKgZJw7U7XEyT+ij9m2/aKOhpa8TbMMm/G9OHZF7JoFrj1LxCrcbDQ=="
+                length="28202786"
+            />
+        </item>
+        <item>
             <title>Version 1.5.0</title>
             <sparkle:version>18</sparkle:version>
             <sparkle:shortVersionString>1.5.0</sparkle:shortVersionString>
