@@ -6,6 +6,28 @@
         <description>Thunder Kitty release feed</description>
         <language>en</language>
         <item>
+            <title>Version 1.6.1</title>
+            <sparkle:version>20</sparkle:version>
+            <sparkle:shortVersionString>1.6.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <p><strong>What's new in 1.6.1</strong></p>
+                <ul>
+                    <li>Toast notifications for note creation, recording, trash/restore, and more</li>
+                    <li>New MCP tools to create people and organizations from Claude Desktop</li>
+                    <li>Fix: entities created via Claude Desktop now appear immediately in the app</li>
+                    <li>Smarter entity matching — email/domain lookup, deduplication, case-insensitive</li>
+                </ul>
+            ]]></description>
+            <pubDate>Fri, 22 May 2026 18:17:51 +0000</pubDate>
+            <enclosure
+                url="https://github.com/big-truck-labs/thunder-kitty-releases/releases/download/v1.6.1/ThunderKitty.dmg"
+                type="application/octet-stream"
+                sparkle:edSignature="D8UuyVdxRR6NtxL/Fbj0agbllAlvD5WROeswEkjpwOxv289t8hylEzL9D3wQ78HIjYNl+y2z9OxhFOS3T8jwAw=="
+                length="28251094"
+            />
+        </item>
+        <item>
             <title>Version 1.6.0</title>
             <sparkle:version>19</sparkle:version>
             <sparkle:shortVersionString>1.6.0</sparkle:shortVersionString>
