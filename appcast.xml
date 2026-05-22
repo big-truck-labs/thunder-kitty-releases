@@ -6,6 +6,27 @@
         <description>Thunder Kitty release feed</description>
         <language>en</language>
         <item>
+            <title>Version 1.6.2</title>
+            <sparkle:version>21</sparkle:version>
+            <sparkle:shortVersionString>1.6.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <p><strong>What's new in 1.6.2</strong></p>
+                <ul>
+                    <li>Fixed duplicate entity creation when calendar imports stored email as display name</li>
+                    <li>New MCP tool to delete duplicate people and organizations from Claude Desktop</li>
+                    <li>Improved entity deduplication — email/domain now checked against display names</li>
+                </ul>
+            ]]></description>
+            <pubDate>Fri, 22 May 2026 20:44:32 +0000</pubDate>
+            <enclosure
+                url="https://github.com/big-truck-labs/thunder-kitty-releases/releases/download/v1.6.2/ThunderKitty.dmg"
+                type="application/octet-stream"
+                sparkle:edSignature="37BAWXL35jkMDh7O+gUvRMhCxEBKNL6l9HshUI9r6p8iYVWmalfRHBPzOOFSxerm/nbDjN+W8hhCwiibLLeEBQ=="
+                length="28259134"
+            />
+        </item>
+        <item>
             <title>Version 1.6.1</title>
             <sparkle:version>20</sparkle:version>
             <sparkle:shortVersionString>1.6.1</sparkle:shortVersionString>
