@@ -6,6 +6,28 @@
         <description>Thunder Kitty release feed</description>
         <language>en</language>
         <item>
+            <title>Version 1.7.0</title>
+            <sparkle:version>22</sparkle:version>
+            <sparkle:shortVersionString>1.7.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <p><strong>What's new in 1.7.0</strong></p>
+                <ul>
+                    <li>Your voice and everyone else's are now always captured as separate streams in real time — no headphones required</li>
+                    <li>Plug in or remove AirPods mid-recording without interrupting the session</li>
+                    <li>Link speaker labels to real people; 1:1 meetings auto-assign the other speaker</li>
+                    <li>Voice enrollment removed — no longer needed</li>
+                </ul>
+            ]]></description>
+            <pubDate>Tue, 26 May 2026 16:25:24 +0000</pubDate>
+            <enclosure
+                url="https://github.com/big-truck-labs/thunder-kitty-releases/releases/download/v1.7.0/ThunderKitty.dmg"
+                type="application/octet-stream"
+                sparkle:edSignature="QhtxS0f9VYs+900e/NdVACVlZw614WiZRVF+8DK4bPrujYpUsiahVlGmwUO6ugcas9g6fKnuTKHtAlhoK61nDA=="
+                length="18466785"
+            />
+        </item>
+        <item>
             <title>Version 1.6.2</title>
             <sparkle:version>21</sparkle:version>
             <sparkle:shortVersionString>1.6.2</sparkle:shortVersionString>
