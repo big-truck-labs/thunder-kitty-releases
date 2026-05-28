@@ -6,6 +6,26 @@
         <description>Thunder Kitty release feed</description>
         <language>en</language>
         <item>
+            <title>Version 1.7.2</title>
+            <sparkle:version>24</sparkle:version>
+            <sparkle:shortVersionString>1.7.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <ul>
+                    <li>Improved audio stability and echo cancellation quality</li>
+                    <li>Tuned AEC3 adaptive filter for better echo suppression</li>
+                    <li>Fixed concurrency issues in the transcription pipeline</li>
+                </ul>
+            ]]></description>
+            <pubDate>Thu, 28 May 2026 18:32:52 +0000</pubDate>
+            <enclosure
+                url="https://github.com/big-truck-labs/thunder-kitty-releases/releases/download/v1.7.2/ThunderKitty.dmg"
+                type="application/octet-stream"
+                sparkle:edSignature="3MLXAhk9ld7T9iZU3idEXMcTdS3iAK4lERjvUbGTBlkK7jD+6zVTyrIco6uKBP5gSDzUQdjNMm9brbRhXypJDA=="
+                length="18470365"
+            />
+        </item>
+        <item>
             <title>Version 1.7.1</title>
             <sparkle:version>23</sparkle:version>
             <sparkle:shortVersionString>1.7.1</sparkle:shortVersionString>
