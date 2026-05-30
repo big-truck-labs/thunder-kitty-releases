@@ -6,6 +6,24 @@
         <description>Thunder Kitty release feed</description>
         <language>en</language>
         <item>
+            <title>Version 1.7.3</title>
+            <sparkle:version>25</sparkle:version>
+            <sparkle:shortVersionString>1.7.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <ul>
+                    <li>Fix editor flickering when typing in notes with many headings</li>
+                </ul>
+            ]]></description>
+            <pubDate>Sat, 30 May 2026 19:00:05 +0000</pubDate>
+            <enclosure
+                url="https://github.com/big-truck-labs/thunder-kitty-releases/releases/download/v1.7.3/ThunderKitty.dmg"
+                type="application/octet-stream"
+                sparkle:edSignature="ziJFpp5986UQtj0ZQi7/9ohL4crnsjP2eUFsQrKDQfbqi5SU9tqM4hydzkUb94oiD6E62Ol3G8GK6IYvSh5fDA=="
+                length="18476038"
+            />
+        </item>
+        <item>
             <title>Version 1.7.2</title>
             <sparkle:version>24</sparkle:version>
             <sparkle:shortVersionString>1.7.2</sparkle:shortVersionString>
