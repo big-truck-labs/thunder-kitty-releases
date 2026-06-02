@@ -6,6 +6,29 @@
         <description>Thunder Kitty release feed</description>
         <language>en</language>
         <item>
+            <title>Version 1.8.0</title>
+            <sparkle:version>26</sparkle:version>
+            <sparkle:shortVersionString>1.8.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <p><strong>What's new in 1.8.0</strong></p>
+                <ul>
+                    <li><strong>Google Calendar</strong> — sync your Google calendar for event notes, attendee names, and meeting notifications</li>
+                    <li><strong>Import from YouTube</strong> — paste a URL and Thunder Kitty transcribes, diarizes, and summarizes it</li>
+                    <li><strong>Import video files</strong> — .mp4 and .mov now work alongside audio files</li>
+                    <li><strong>Voice enrollment for imports</strong> — Thunder Kitty can identify your voice in imported recordings</li>
+                    <li>Agenda sidebar improvements — drag to reorder, cleaner hover states, smoother animations</li>
+                </ul>
+            ]]></description>
+            <pubDate>Tue, 02 Jun 2026 12:29:50 +0000</pubDate>
+            <enclosure
+                url="https://github.com/big-truck-labs/thunder-kitty-releases/releases/download/v1.8.0/ThunderKitty.dmg"
+                type="application/octet-stream"
+                sparkle:edSignature="FfvlgvOhzlc1vXoPRRj59c1ArgshdpHNlDVwFC+5mpjoh6wFo9FJXIf6b6DC5mA3xqzoRfDIxKtMQuJMHKGGBg=="
+                length="18533966"
+            />
+        </item>
+        <item>
             <title>Version 1.7.3</title>
             <sparkle:version>25</sparkle:version>
             <sparkle:shortVersionString>1.7.3</sparkle:shortVersionString>
