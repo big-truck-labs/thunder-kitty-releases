@@ -6,6 +6,28 @@
         <description>Thunder Kitty release feed</description>
         <language>en</language>
         <item>
+            <title>Version 1.9.0</title>
+            <sparkle:version>27</sparkle:version>
+            <sparkle:shortVersionString>1.9.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <p><strong>What's new in 1.9.0</strong></p>
+                <ul>
+                    <li><strong>Labs</strong> — a new section in Settings with two experimental features</li>
+                    <li><strong>Live Topic Timeline</strong> — your meeting segments into topics as you record</li>
+                    <li><strong>Live Agenda Tracking</strong> — agenda items are checked off in real-time as topics come up</li>
+                    <li>Both run entirely on-device using a downloaded ML model (~209MB)</li>
+                </ul>
+            ]]></description>
+            <pubDate>Sun, 14 Jun 2026 15:23:50 +0000</pubDate>
+            <enclosure
+                url="https://github.com/big-truck-labs/thunder-kitty-releases/releases/download/v1.9.0/ThunderKitty.dmg"
+                type="application/octet-stream"
+                sparkle:edSignature="qrwuQadscew38DvNO7FtsZkZadsUW+5PzWoYSmp1ei9Oozbis72hrGJtuwGc2tQON8vGnt0z27jhBq7jNxbIDw=="
+                length="18656323"
+            />
+        </item>
+        <item>
             <title>Version 1.8.0</title>
             <sparkle:version>26</sparkle:version>
             <sparkle:shortVersionString>1.8.0</sparkle:shortVersionString>
