@@ -6,6 +6,27 @@
         <description>Thunder Kitty release feed</description>
         <language>en</language>
         <item>
+            <title>Version 1.10.0</title>
+            <sparkle:version>28</sparkle:version>
+            <sparkle:shortVersionString>1.10.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <p><strong>What's new in 1.10.0</strong></p>
+                <ul>
+                    <li><strong>Custom summary templates</strong> — write your own instructions for how meetings get summarized</li>
+                    <li><strong>Per-note overrides</strong> — set AI model, template, and auto-summarize directly in the note toolbar</li>
+                    <li>Summaries now use correct names from your calendar instead of phonetic transcript spellings</li>
+                </ul>
+            ]]></description>
+            <pubDate>Mon, 15 Jun 2026 18:56:44 +0000</pubDate>
+            <enclosure
+                url="https://github.com/big-truck-labs/thunder-kitty-releases/releases/download/v1.10.0/ThunderKitty.dmg"
+                type="application/octet-stream"
+                sparkle:edSignature="AyWnf2y+IA8767bs+hI9+ixQx4+Hahq3EkeEMAFGZddGwCmRyMIkZ7c4DGN0M8y84NRHUG+sHFdeYMAgq4yUDQ=="
+                length="18770734"
+            />
+        </item>
+        <item>
             <title>Version 1.9.0</title>
             <sparkle:version>27</sparkle:version>
             <sparkle:shortVersionString>1.9.0</sparkle:shortVersionString>
