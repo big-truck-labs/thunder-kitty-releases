@@ -6,6 +6,27 @@
         <description>Thunder Kitty release feed</description>
         <language>en</language>
         <item>
+            <title>Version 1.11.0</title>
+            <sparkle:version>29</sparkle:version>
+            <sparkle:shortVersionString>1.11.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <p><strong>What's new in 1.11.0</strong></p>
+                <ul>
+                    <li><strong>Yesterday</strong> — a daily recap of the prior day's meetings, generated on your Mac each morning</li>
+                    <li><strong>Download any HuggingFace MLX model</strong> directly from Settings</li>
+                    <li>Faster inference and significantly lower peak memory usage</li>
+                </ul>
+            ]]></description>
+            <pubDate>Tue, 07 Jul 2026 15:15:27 +0000</pubDate>
+            <enclosure
+                url="https://github.com/big-truck-labs/thunder-kitty-releases/releases/download/v1.11.0/ThunderKitty.dmg"
+                type="application/octet-stream"
+                sparkle:edSignature="ivRDBRqeYBEDcnhq2IJ6MoTgD/A6WHMQ6rDGV8XcWpleX47iw1UXrXCN3f7C+iBklYOvm15WUeJZdg4lVQKABw=="
+                length="19051145"
+            />
+        </item>
+        <item>
             <title>Version 1.10.0</title>
             <sparkle:version>28</sparkle:version>
             <sparkle:shortVersionString>1.10.0</sparkle:shortVersionString>
