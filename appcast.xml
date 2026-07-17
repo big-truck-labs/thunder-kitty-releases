@@ -6,6 +6,27 @@
         <description>Thunder Kitty release feed</description>
         <language>en</language>
         <item>
+            <title>Version 1.11.1</title>
+            <sparkle:version>30</sparkle:version>
+            <sparkle:shortVersionString>1.11.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <p><strong>What's new in 1.11.1</strong></p>
+                <ul>
+                    <li>Yesterday recap generates automatically when you open the app each morning</li>
+                    <li>Fixed phantom speakers on two-person calls</li>
+                    <li>MCP create_note now supports calendar events and agenda items</li>
+                </ul>
+            ]]></description>
+            <pubDate>Fri, 17 Jul 2026 18:25:37 +0000</pubDate>
+            <enclosure
+                url="https://github.com/big-truck-labs/thunder-kitty-releases/releases/download/v1.11.1/ThunderKitty.dmg"
+                type="application/octet-stream"
+                sparkle:edSignature="0gJlLmNImDiQDgSXU/XaN4BuvuZJ/+V/NURRgVEutZ8XOGgWoNbffb48lSNe9YpFKUmsiCKfVwTgTYqRxOfaBg=="
+                length="19070689"
+            />
+        </item>
+        <item>
             <title>Version 1.11.0</title>
             <sparkle:version>29</sparkle:version>
             <sparkle:shortVersionString>1.11.0</sparkle:shortVersionString>
